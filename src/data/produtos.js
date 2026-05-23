@@ -6,7 +6,7 @@ export const produtos = [
     descricao: "Um planeta gelado, encontros improvaveis e perguntas sobre identidade.",
     preco: "R$ 59,90",
     categoria: "Cosmos",
-    imagem: "https://books.google.com/books/content?id=yWQaAAAAMAAJ&printsec=frontcover&img=1&zoom=1"
+    imagem: "https://covers.openlibrary.org/b/isbn/9780441478125-L.jpg"
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const produtos = [
     descricao: "Um futuro inquietante sobre controle, silencio e resistencia.",
     preco: "R$ 54,90",
     categoria: "Futuro",
-    imagem: "https://books.google.com/books/content?id=eMkNAAAAQBAJ&printsec=frontcover&img=1&zoom=1"
+    imagem: "https://covers.openlibrary.org/b/isbn/9780385490818-L.jpg"
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const produtos = [
     descricao: "Uma jornada por ruinas sociais em busca de outro modo de viver.",
     preco: "R$ 48,90",
     categoria: "Vozes",
-    imagem: "https://books.google.com/books/content?id=GsaDDwAAQBAJ&printsec=frontcover&img=1&zoom=1"
+    imagem: "https://covers.openlibrary.org/b/isbn/9781538748664-L.jpg"
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const produtos = [
     descricao: "Mitos e historias sobre instinto, criacao e forca interior.",
     preco: "R$ 64,90",
     categoria: "Ancestral",
-    imagem: "https://books.google.com/books/content?id=BmNHAAAAMAAJ&printsec=frontcover&img=1&zoom=1"
+    imagem: "https://covers.openlibrary.org/b/isbn/9780345396761-L.jpg"
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const produtos = [
     descricao: "Uma figura mitica entre solidao, transformacao e escolha.",
     preco: "R$ 52,90",
     categoria: "Ritos",
-    imagem: "https://books.google.com/books/content?id=3j9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1"
+    imagem: "https://covers.openlibrary.org/b/isbn/9780316556347-L.jpg"
   },
   {
     id: 6,
@@ -51,6 +51,6 @@ export const produtos = [
     descricao: "Uma ficcao sombria sobre criacao, abandono e responsabilidade.",
     preco: "R$ 39,90",
     categoria: "Sombra",
-    imagem: "https://books.google.com/books/content?id=3kRbAAAAMAAJ&printsec=frontcover&img=1&zoom=1"
+    imagem: "https://covers.openlibrary.org/b/isbn/9780486282114-L.jpg"
   }
 ];

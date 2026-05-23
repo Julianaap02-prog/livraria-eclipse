@@ -33,7 +33,7 @@ export const produtos = [
     descricao: "Mitos e historias sobre instinto, criacao e forca interior.",
     preco: "R$ 64,90",
     categoria: "Ancestral",
-    imagem: "https://covers.openlibrary.org/b/isbn/9780062566072-L.jpg"
+    imagem: "https://covers.openlibrary.org/b/isbn/9780345410016-L.jpg"
   },
   {
     id: 5,
